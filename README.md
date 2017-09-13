@@ -1,7 +1,7 @@
 # tsinghuaOJ
 
-DSA @2017 Summer
-Prof Deng Junhui 
+### DSA @2017 Summer
+### Prof Deng Junhui 
 
 ## References
 [zhousoft](https://github.com/cnin/TsingHuaDataStructOj)
